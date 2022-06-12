@@ -1,6 +1,6 @@
-#### Other relevant projects:
+#### Other relevant projects
 
-##### Expo:
+##### Expo
 * [expo-font-loader](https://github.com/SrBrahma/expo-font-loader)
 * [expo-image-picker-hook](https://github.com/SrBrahma/expo-image-picker-hook)
 
