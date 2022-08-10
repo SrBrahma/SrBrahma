@@ -9,5 +9,10 @@
 * [eslint-config-gev](https://github.com/SrBrahma/eslint-config-gev)
 
 ##### Etc
-* [Logiwin](https://github.com/SrBrahma/Logiwin)
 * [PMM](https://github.com/SrBrahma/PMM)
+* [Logiwin](https://github.com/SrBrahma/Logiwin)
+
+<br/>
+
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
+![Henrique Almeida's GitHub stats](https://github-readme-stats.vercel.app/api?username=srbrahma&theme=ayu-mirage&show_icons=true)
