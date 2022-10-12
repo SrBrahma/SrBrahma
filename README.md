@@ -6,7 +6,6 @@
 
 ##### Utils
 * [gev](https://github.com/SrBrahma/gev)
-* [eslint-config-gev](https://github.com/SrBrahma/eslint-config-gev)
 
 ##### Etc
 * [PMM](https://github.com/SrBrahma/PMM)
